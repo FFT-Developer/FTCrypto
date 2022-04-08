@@ -1,0 +1,16 @@
+PODS:
+  - FTCrypto (0.1.0)
+
+DEPENDENCIES:
+  - FTCrypto (from `../`)
+
+EXTERNAL SOURCES:
+  FTCrypto:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FTCrypto: d52a7a9665b86a25906ca220e937ff86f6223926
+
+PODFILE CHECKSUM: 50c9bff569060ec75d3895dea51762b3f07e6c75
+
+COCOAPODS: 1.11.3
