@@ -9,7 +9,7 @@
 #define FTCryptoHeader_h
 
 #import "FTCryptoHash.h"
-
+#import "FTCryptoCodeing.h"
 
 
 
